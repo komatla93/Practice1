@@ -1,0 +1,7 @@
+1. Click on the link in watsapp
+2. Select folder which need to be downloaded
+3. Click on three dots---->share------>copy link
+4. Paste URL in new tab and once it played click on Ctrl+Shift+C.
+5. Selct Network and type playback
+6. Click on videoplayback and under Request URL select the first URL and open it on new tab. 
+7. Then click on three dots and click on download(it may take 1 minute to start downloading)
